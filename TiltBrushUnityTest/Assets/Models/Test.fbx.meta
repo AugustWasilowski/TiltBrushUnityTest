@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: bba7bc68593ed414fa34f7c8ca689e4b
+timeCreated: 1490302048
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ChromaticWave_geo
+    100002: CoarseBristles_geo
+    100004: Disco_geo
+    100006: DuctTape_geo
+    100008: Electricity_geo
+    100010: Fire_geo
+    100012: Hypercolor_geo
+    100014: HyperGrid_geo
+    100016: Light_geo
+    100018: LightWire_geo
+    100020: Marker_geo
+    100022: NeonPulse_geo
+    100024: Paper_geo
+    100026: Rainbow_geo
+    100028: Splatter_geo
+    100030: Streamers_geo
+    100032: //RootNode
+    100034: Toon_geo
+    100036: VelvetInk_geo
+    100038: Waveform_geo
+    400000: ChromaticWave_geo
+    400002: CoarseBristles_geo
+    400004: Disco_geo
+    400006: DuctTape_geo
+    400008: Electricity_geo
+    400010: Fire_geo
+    400012: Hypercolor_geo
+    400014: HyperGrid_geo
+    400016: Light_geo
+    400018: LightWire_geo
+    400020: Marker_geo
+    400022: NeonPulse_geo
+    400024: Paper_geo
+    400026: Rainbow_geo
+    400028: Splatter_geo
+    400030: Streamers_geo
+    400032: //RootNode
+    400034: Toon_geo
+    400036: VelvetInk_geo
+    400038: Waveform_geo
+    2300000: ChromaticWave_geo
+    2300002: CoarseBristles_geo
+    2300004: Disco_geo
+    2300006: DuctTape_geo
+    2300008: Electricity_geo
+    2300010: Fire_geo
+    2300012: Hypercolor_geo
+    2300014: HyperGrid_geo
+    2300016: Light_geo
+    2300018: LightWire_geo
+    2300020: Marker_geo
+    2300022: NeonPulse_geo
+    2300024: Paper_geo
+    2300026: Rainbow_geo
+    2300028: Splatter_geo
+    2300030: Streamers_geo
+    2300032: Toon_geo
+    2300034: VelvetInk_geo
+    2300036: Waveform_geo
+    3300000: ChromaticWave_geo
+    3300002: CoarseBristles_geo
+    3300004: Disco_geo
+    3300006: DuctTape_geo
+    3300008: Electricity_geo
+    3300010: Fire_geo
+    3300012: Hypercolor_geo
+    3300014: HyperGrid_geo
+    3300016: Light_geo
+    3300018: LightWire_geo
+    3300020: Marker_geo
+    3300022: NeonPulse_geo
+    3300024: Paper_geo
+    3300026: Rainbow_geo
+    3300028: Splatter_geo
+    3300030: Streamers_geo
+    3300032: Toon_geo
+    3300034: VelvetInk_geo
+    3300036: Waveform_geo
+    4300000: Marker_geo
+    4300002: Paper_geo
+    4300004: Light_geo
+    4300006: Fire_geo
+    4300008: Rainbow_geo
+    4300010: VelvetInk_geo
+    4300012: Waveform_geo
+    4300014: Splatter_geo
+    4300016: DuctTape_geo
+    4300018: CoarseBristles_geo
+    4300020: Toon_geo
+    4300022: Electricity_geo
+    4300024: Streamers_geo
+    4300026: Hypercolor_geo
+    4300028: NeonPulse_geo
+    4300030: Disco_geo
+    4300032: HyperGrid_geo
+    4300034: LightWire_geo
+    4300036: ChromaticWave_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
